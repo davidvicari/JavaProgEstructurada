@@ -5,7 +5,7 @@
 
 /**
  *
- * @author TODOPODEROSO
+ * @author David Vicari
  */
 public class OperadoresRelacionales {
     public static void main(String[] args) {
