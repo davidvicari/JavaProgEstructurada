@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author TODOPODEROSO
+ * @author David Vicari
  */
 public class CodicionalMultipleCalculadora {
 
